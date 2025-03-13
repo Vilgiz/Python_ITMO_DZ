@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "-homework"
+version = "0.1.0"
+description = "solutions for the homeworks"
+authors = [
+  { name="Vilgiz" }
+]
+
+[project.dependencies]
+pytest = "^7.2"
+
+[tool.pytest.ini_options]
+testpaths = [
+  "hw_1/tests",
+  "hw_2/tests"
+]
