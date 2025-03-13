@@ -1,0 +1,1 @@
+2 5 27 C:\Projects\Python_DZ\Python_ITMO_DZ\hw_1\tests\test_data\wc_input.txt

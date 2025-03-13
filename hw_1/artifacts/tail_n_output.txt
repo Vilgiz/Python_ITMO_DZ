@@ -1,0 +1,6 @@
+==> C:\Projects\Python_DZ\Python_ITMO_DZ\hw_1\tests\test_data\tail_input.txt <==
+16
+17
+18
+19
+20

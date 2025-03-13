@@ -1,0 +1,3 @@
+2 5 27 C:\Projects\Python_DZ\Python_ITMO_DZ\hw_1\tests\test_data\wc_input.txt
+3 9 52 C:\Projects\Python_DZ\Python_ITMO_DZ\hw_1\tests\test_data\wc_input_2.txt
+5 14 79 total
