@@ -1,0 +1,11 @@
+services:
+  latex-generator:
+    build: .
+    volumes:
+      - ./artifacts:/app/artifacts
+    command: >
+      /bin/sh -c "
+      python main_with_import.py &&
+      cp example.png output.tex artifacts/ &&
+      cd artifacts && pdflatex output.tex
+      "
