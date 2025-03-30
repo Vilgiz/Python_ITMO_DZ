@@ -1,2 +1,9 @@
 __pycache__
 .pytest_cache
+output.aux
+output.log
+latex_generator_VILGIZ.egg-info
+build
+dist
+venv
+texput.log
