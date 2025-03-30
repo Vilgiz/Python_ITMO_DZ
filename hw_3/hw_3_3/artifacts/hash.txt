@@ -1,0 +1,4 @@
+hash(A): 5
+hash(C): 5
+hash(B): 3
+hash(D): 3
